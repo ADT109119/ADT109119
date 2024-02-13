@@ -1,6 +1,6 @@
 ![](https://github-readme-stats-gamma-lovat-88.vercel.app/api?username=ADT109119&show_icons=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ADT109119&)
+![](https://github-readme-stats-gamma-lovat-88.vercel.app/api/top-langs/?username=ADT109119&)
 
 ![Top Langs](https://github-readme-stats-gamma-lovat-88.vercel.app/api/top-langs/?username=ADT109119&layout=compact)
 
